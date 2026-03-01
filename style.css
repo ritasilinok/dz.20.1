@@ -1,0 +1,53 @@
+body {
+	background-color: papayawhip;
+	font-family: Arial, sans-serif;
+	color: sienna;
+	padding: 20px;
+}
+.main-title {
+	color: saddlebrown; 
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.hobby-list {
+	background: blanchedalmond; 
+	border: 2px solid peru; 
+	border-radius: 15px;
+	padding: 20px;
+	line-height: 1.6;
+	box-shadow: 0px 4px 6px rgba(139, 69, 19, 0.2); 
+}
+.gallery-img {
+	display: block;
+	border: 3px solid saddlebrown;
+	border-radius: 15px; 
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+	margin: 10px auto;
+}
+
+nav a {
+	text-align: center;
+	padding: 10px 15px;
+	color: saddlebrown;
+	margin: 0 10px;
+	color: saddlebrown;
+	font-weight: bold;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+
+nav a.active {
+	background-color: saddlebrown;
+	color: white;
+}
+
+footer {
+	text-align: center;
+	margin-top: 40px;
+	padding: 20px;
+	border-top: 1px solid saddlebrown;
+	color: saddlebrown;
+	font-size: 0.9 em;
+}
